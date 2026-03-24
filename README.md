@@ -6,6 +6,10 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://vgm-clg-recom-sys.streamlit.app/)
 
+<img width="1000" height="563" alt="3D Diagram" src="https://github.com/user-attachments/assets/cfd604a7-8681-44ea-b702-e7028422c2ed" />
+<img width="1877" height="757" alt="image" src="https://github.com/user-attachments/assets/a6a660d7-3a9f-4fa0-a86f-298dc3d9aca1" />
+
+
 A sophisticated AI-powered course recommendation system that helps engineering students find relevant online courses from major learning platforms based on their college curriculum. The system uses advanced keyword extraction and matching algorithms to provide personalized course recommendations.
 
 ## 🌟 Features
