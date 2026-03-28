@@ -11,8 +11,6 @@
 
 A sophisticated AI-powered course recommendation system that helps engineering students find relevant online courses from major learning platforms based on their college curriculum. The system uses advanced keyword extraction and matching algorithms to provide personalized course recommendations.
 
-Link to View: https://smartcourseai.streamlit.app/
-
 ## 🌟 Features
 
 - **Multi-Platform Support**: Recommendations from edX, Coursera, and Udemy
@@ -140,7 +138,7 @@ The system uses several CSV datasets located in the `dataset/` folder:
 
 ## 🚀 Live Demo
 
-Experience the system in action: [Live Demo](https://vgm-clg-recom-sys.streamlit.app/)
+Experience the system in action: [Live Demo](https://smartcourseai.streamlit.app/)
 
 ## 📱 Usage Examples
 
@@ -184,54 +182,9 @@ College-Course-Recommendation-System/
 └── README.md             # Project documentation
 ```
 
-### Key Functions
-- `keyword_recc_system()`: Core recommendation algorithm
-- `material_find()`: Material retrieval system
-- `material_adder()`: Community contribution system
-- `data_simlifier()`: Text preprocessing pipeline
-
-## 🔍 Troubleshooting
-
-### Common Issues
-
-1. **ModuleNotFoundError**: Ensure all dependencies are installed
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Streamlit not found**: Install Streamlit globally
-   ```bash
-   pip install streamlit
-   ```
-
-3. **Dataset errors**: Verify CSV files are in the `dataset/` folder
-
-### Performance Tips
-
-- Use virtual environments for clean dependency management
-- Ensure sufficient RAM for KeyBERT model loading
-- Close other applications when running the system
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Dataset**: Courtesy of KAGGLE
-- **AI Model**: KeyBERT for intelligent keyword extraction
-- **Web Framework**: Streamlit for the user interface
-- **Community**: Contributors who add materials and improve the system
-
-## 📞 Support
-
-For questions, issues, or contributions:
-
-- Create an issue on GitHub
-- Contact the development team
-- Check the live demo for usage examples
-
----
 
 **Made with ❤️ for the engineering community**
 
